@@ -10,4 +10,17 @@ c++开发交易分析系统，支持行情获取、数据整理、分析，输�
 	- 绘制图表
 
 ## plot
+- 510300
 ![Plot](./res/plot/510300.79.v.png "plot")
+
+- 000369
+![Plot](./res/plot/000369.79.v.png "plot")
+
+- 050025
+![Plot](./res/plot/050025.79.v.png "plot")
+
+- 160213
+![Plot](./res/plot/160213.79.v.png "plot")
+
+- 510210
+![Plot](./res/plot/510210.79.v.png "plot")
